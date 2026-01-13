@@ -9,7 +9,7 @@ The primary goal was to provide the **Transportation Operations Center (TOC)** w
 
 ## 📊 Dashboard Preview
 ![Logistics Dashboard](dashboard.png)
-*(Note: Ensure your screenshot is named 'dashboard.png' and uploaded to the root folder of this repository)*
+
 
 ---
 
