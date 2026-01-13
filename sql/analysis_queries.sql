@@ -1,4 +1,4 @@
-USE amazon_logistics_project
+USE logistics_project
 SELECT COUNT(*) FROM shipments;
 
 -- Career Performance & Delay Rate (Primary KPI) 
