@@ -28,8 +28,8 @@ I transformed raw, unstructured shipment data into actionable insights using adv
 ## 💡 Key Business Insights
 
 ### 💰 Financial Impact
-* **Revenue at Risk:** Delayed shipments account for over **$16.3 Million** in potential revenue loss.
-* **High-Value Vulnerability:** Delayed shipments have a higher average value (**$866**) than on-time ones, indicating that high-priority freight is disproportionately affected.
+* **Revenue at Risk:** Delayed shipments account for over **16.3 Million** in potential revenue loss.
+* **High-Value Vulnerability:** Delayed shipments have a higher average value (**866**) than on-time ones, indicating that high-priority freight is disproportionately affected.
 
 ### 🌪️ Operational Bottlenecks
 * **Weather Sensitivity:** Environmental conditions are primary drivers of failure. **Foggy** and **Cold** weather alone resulted in over **6,300 cumulative exceptions**.
